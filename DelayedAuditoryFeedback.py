@@ -120,5 +120,6 @@ class DAF:
 
 
 win = tk.Tk()
+win.title("DAF")
 app = DAF(win)
 win.mainloop()
